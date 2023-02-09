@@ -202,7 +202,7 @@ function App() {
         </p>
       </div>
       <div ref={ref}>
-        <h1>Motion is here.</h1>
+        <h1>Framer Motion is here.</h1>
         <h1>Shyam</h1>
 
         <motion.div animate={animation}>
